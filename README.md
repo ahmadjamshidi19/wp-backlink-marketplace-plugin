@@ -113,7 +113,7 @@ wp-backlink-marketplace-plugin/
 1. Clone the repository:
 
 ```bash id="qz9m9n"
-git clone https://github.com/your-username/wp-backlink-marketplace-plugin.git
+git clone https://github.com/ahmadjamshidi19/wp-backlink-marketplace-plugin.git
 ```
 
 2. Move the plugin to your WordPress installation:
